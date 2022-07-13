@@ -11,7 +11,5 @@
 | 5주차 | 2022.05.04 | 모델을 배포하기 위한 다양한 툴과 디자인 패턴     | [✏️](5-serving-design-pattern) |
 | 6주차 | 2022.05.11 | mlflow를 통한 머신러닝 라이프 사이클 관리        | [✏️](6-mlflow-tutorial)        |
 | 7주차 | 2022.05.18 | kubeflow pipelines를 이용한 학습 파이프라인 설계 | [✏️](7-kubeflow-pipelines)     |
-| 8주차 | 2022.05.25 | airflow를 이용한 데이터 파이프라인 설계          |                               |
-
 
 
